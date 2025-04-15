@@ -1,44 +1,44 @@
 /** Fonts*/
 @font-face {
-    font-family: "gg sans";
+    font-family: "GG Sans";
     font-weight: 300;
-    src: url(https://milbits.github.io/oldcord/src/assets/thin.woff2) format("woff2");
+    src: url(ggsans-Normal.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: "gg sans";
-    src: url(https://milbits.github.io/oldcord/src/assets/normal.woff2);
+    font-family: "GG Sans";
+    src: url(ggsans-Normal.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: "gg sans";
+    font-family: "GG Sans";
     font-style: italic;
-    src: url(https://milbits.github.io/oldcord/src/assets/cursive.woff2);
+    src: url(ggsans-Italic.ttf) format("truetype");
 }
 
 @font-face {
     font-weight: 500;
-    font-family: "gg sans";
-    src: url(https://milbits.github.io/oldcord/src/assets/kindaBold.woff2);
+    font-family: "GG Sans";
+    src: url(ggsans-Semibold.ttf) format("truetype");
 }
 
 @font-face {
-    font-family: "gg sans";
+    font-family: "GG Sans";
     font-weight: 600;
-    src: url(https://milbits.github.io/oldcord/src/assets/bold.woff2) format("woff2");
+    src: url(ggsans-Bold.ttf) format("truetype");
 }
 
 @font-face {
     font-weight: 700;
-    font-family: "gg sans";
-    src: url(https://milbits.github.io/oldcord/src/assets/veryBold.woff2);
+    font-family: "GG Sans";
+    src: url(ggsans-ExtraBold.ttf) format("truetype");
 }
 
 @font-face {
     font-weight: 700;
     font-style: italic;
-    font-family: "gg sans";
-    src: url(https://milbits.github.io/oldcord/src/assets/cursiveBold.woff2);
+    font-family: "GG Sans";
+    src: url(ggsans-BoldItalic.ttf);
 }
 
 code {
