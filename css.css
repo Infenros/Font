@@ -25,7 +25,7 @@
 @font-face {
     font-family: "GG Sans";
     font-weight: 600;
-    src: url(ggsans-BoldItalic.ttf) format("truetype");
+    src: url(ggsans-Bold.ttf) format("truetype");
 }
 
 @font-face {
@@ -38,7 +38,7 @@
     font-weight: 700;
     font-style: italic;
     font-family: "GG Sans";
-    src: url(ggsans-Bold.ttf);
+    src: url(ggsans-BoldItalic.ttf);
 }
 
 code {
