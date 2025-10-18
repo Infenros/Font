@@ -13,7 +13,7 @@
 @font-face {
     font-family: "GG Sans";
     font-style: italic;
-    src: url(ggsans-Normal.ttf) format("truetype");
+    src: url(ggsans-NormalItalic.ttf) format("truetype");
 }
 
 @font-face {
@@ -1786,3 +1786,4 @@ h2.title_b717a1, .modalHeader_db81c6 :is([data-text-variant="heading-lg/semibold
 	}
 }
 */
+
